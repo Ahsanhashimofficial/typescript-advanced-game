@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.20"
+  },
+  "name": "advance_game_of_time_waste",
+ 
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "typescript",
+    "adventure",
+    "programming",
+    "learning"
+  ],
+
+  "author": "Ahsan Hashim",
+  "license": "MIT",
+  "description":  "A TypeScript adventure game to learn basic programming concepts through gameplay.",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
